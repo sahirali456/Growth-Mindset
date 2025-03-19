@@ -10,7 +10,7 @@ page = st.sidebar.radio("Go to:", ["Home", "Why Growth Mindset?", "Practical Tip
 if page == "Home":
     st.header("What is Growth Mindset?")
     st.write("A growth mindset means you can learn, improve, and groove.")
-    st.image("C:\Users\classic computer 220\Documents\GitHub", caption="Growth Mindset", use_container_width=True)
+    st.image("https://img.freepik.com/free-photo/still-life-with-human-brains-watering-can_23-2150547701.jpg?t=st=1742367954~exp=1742371554~hmac=9022db7f149e7edcb9977c02c36fa937af62f645238e249c16f7528e814098e6&w=740", caption="Growth Mindset", use_container_width=True)
     
     st.subheader("What is Growth Mindset?")
     st.write("A growth mindset is the belief that intelligence, abilities, and skills can be developed through effort, learning, and persistence. This idea was introduced by psychologist Carol Dweck, who contrasted it with a fixed mindset, which is the belief that intelligence and talent are unchangeable. People with a growth mindset see challenges as opportunities, learn from failures, and continuously improve. For example, a student struggling with math can either believe they are bad at math (fixed mindset) or view the struggle as a chance to grow by practicing more and seeking help (growth mindset). Carol Dweck encourages this by saying that people should love challenges, be intrigued by mistakes, enjoy effort, and keep on learning.")
